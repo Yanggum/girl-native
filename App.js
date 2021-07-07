@@ -21,7 +21,7 @@ export default function App() {
 
   function randomText(){
     let i = getRandomInt(0, 3);
-    setCharacName('티아');
+    setCharacName('여자아이');
 
     switch (i){
       case 0:
